@@ -10,11 +10,11 @@ export const resume = {
   photo: { src: "/photo.jpg", alt: "Portrait of Tinh Phan" },
 
   contact: [
-    { icon: "envelope", label: "tonypavol@gmail.com", href: "mailto:tonypavol@gmail.com", copy: "tonypavol@gmail.com" },
+    { icon: "envelope", label: "tinhpvtech@gmail.com", href: "mailto:tinhpvtech@gmail.com", copy: "tinhpvtech@gmail.com" },
     { icon: "locationDot", label: "Da Nang, Vietnam (UTC+7) · Open to remote" },
-    { icon: "linkedin", label: "linkedin.com/in/tonypavol", href: "https://linkedin.com/in/tonypavol" },
-    { icon: "github", label: "github.com/tonypavol", href: "https://github.com/tonypavol" },
-    { icon: "globe", label: "https://tonypavol.vercel.app", href: "https://tonypavol.vercel.app" },
+    { icon: "linkedin", label: "linkedin.com/in/tinhpvtech", href: "https://linkedin.com/in/tinhpvtech" },
+    { icon: "github", label: "github.com/tinhpvtech", href: "https://github.com/tinhpvtech" },
+    { icon: "globe", label: "https://tinhpvtech.vercel.app", href: "https://tinhpvtech.vercel.app" },
   ] satisfies { icon: SolidIconName; label: string; href?: string; copy?: string }[],
 
   skills: [
